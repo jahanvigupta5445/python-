@@ -1,0 +1,3 @@
+file=input("input the file name:")
+list1=file.split(".")
+print("the extension of the file is:",list1[1])
